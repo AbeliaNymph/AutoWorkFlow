@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "AutoWorkFlow": {
+      "commandName": "Project"
+    },
+    "version_test": {
+      "commandName": "Project",
+      "commandLineArgs": "--version"
+    },
+    "generate_homework": {
+      "commandName": "Project",
+      "commandLineArgs": "generate --java_web"
+    }
+  }
+}
